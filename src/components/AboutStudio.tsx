@@ -16,7 +16,7 @@ export default function AboutStudio() {
             </div>
             <img
               src={FOUNDER_PHOTO}
-              alt="Mr. Gaurav Sekhawat, founder of The Interior & Exterior Solution"
+              alt="Mr. Gaurav Shekhar, founder of The Interior & Exterior Solution"
               loading="lazy"
               className="w-full h-[82vw] sm:h-[58vw] lg:h-[42vw] max-h-[620px] object-cover object-center"
             />
@@ -26,11 +26,11 @@ export default function AboutStudio() {
         <Reveal delay={0.15} className="lg:col-span-7 order-1 lg:order-2">
           <SectionLabel label="Meet the Founder" />
           <h2 className="font-serif text-forest text-5xl md:text-6xl lg:text-[5rem] mt-6 leading-[0.94] tracking-[-0.02em]">
-            Mr. Gaurav Sekhawat
+            Mr. Gaurav Shekhar
           </h2>
 
           <p className="text-forest/65 mt-7 leading-relaxed max-w-xl text-base md:text-lg">
-            Building on a foundation shaped by experience, craftsmanship and strong relationships, Mr. Gaurav Sekhawat continues to lead the business with a clear vision for thoughtful, purposeful design.
+            Building on a foundation shaped by experience, craftsmanship and strong relationships, Mr. Gaurav shekhar continues to lead the business with a clear vision for thoughtful, purposeful design.
           </p>
 
           <div className="mt-8 max-w-xl space-y-5 text-forest/70 text-[15px] md:text-base leading-relaxed">
